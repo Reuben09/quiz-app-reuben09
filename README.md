@@ -1,5 +1,5 @@
 # quiz-app-reuben09
 
-Link to the site
+Link to the sites
 
-http://quiz-app-reuben09.netlify.app
+https://quiz-app-reuben09.netlify.app/
